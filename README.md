@@ -51,15 +51,6 @@ The EDA addresses several critical questions about fraudulent behavior:
 
 ---
 
-##  Streamlit Dashboard
-
-The project includes an embedded Streamlit application that provides a live, high-level overview of the data. 
-
-The dashboard features:
-* **KPIs**: Total transactions, total fraud cases, and the overall fraud rate.
-* **Visualizations**: Fraud vs. Normal transaction counts and the distribution of transaction amounts.
-* **Risk Heatmaps**: Interactive views of Device vs. Transaction Type fraud risk.
-
 ##  How to Run
 
 1. Clone or download the repository.
